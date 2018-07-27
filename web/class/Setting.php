@@ -34,11 +34,11 @@ class Setting
     {
         $connect = db_config::getInstance();
         $conn = $connect->connect_bdb();
-							$updateSetting_sql = "update tssq_setting set logo_pic = '$logo_pic',lunbo_pic = '$lunbo_pic',notice_info = '$notice_info',instruction_sheet='$instruction_sheet',kefu_tel='$kefu_tel',community_tel='$community_tel',community_address='$community_address',use_info='$use_info' where setting_id = 1 ";
+		$updateSetting_sql = "update tssq_setting set logo_pic = '$logo_pic',lunbo_pic = '$lunbo_pic',notice_info = '$notice_info',instruction_sheet='$instruction_sheet',kefu_tel='$kefu_tel',community_tel='$community_tel',community_address='$community_address',use_info='$use_info' where setting_id = 1 ";
         $conn->query($updateSetting_sql);
         $updateSetting_rs = mysqli_affected_rows($conn);
         if ($updateSetting_rs) {
-            $updateSetting_sql = "update xd_student set update_flag = 1 ";
+//            $updateSetting_sql = "update xd_student set update_flag = 1 ";
             $conn->query($updateSetting_sql);
             $conn->close();
             return $connect->out_msg(1, '更新设置成功!');
