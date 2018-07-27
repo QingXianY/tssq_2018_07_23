@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1537792-edd0-4c6e-87b5-7fbc6d14d576" name="Default" comment="" />
+    <list default="true" id="d1537792-edd0-4c6e-87b5-7fbc6d14d576" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/aaa.txt" afterPath="$PROJECT_DIR$/aaa.txt" />
+      <change beforePath="$PROJECT_DIR$/web/api/setting/lunbo_pic_upload.php" afterPath="$PROJECT_DIR$/web/api/setting/lunbo_pic_upload.php" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -17,42 +22,63 @@
       <file leaf-file-name="Service.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/class/Service.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="126" column="26" lean-forward="true" selection-start-line="126" selection-start-column="26" selection-end-line="126" selection-end-column="26" />
+            <state relative-caret-position="2142">
+              <caret line="126" column="26" lean-forward="false" selection-start-line="126" selection-start-column="26" selection-end-line="126" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Member.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/class/Member.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="20" lean-forward="false" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
               <folding>
-                <marker date="1532661488741" expanded="true" signature="309:385" ph="select * fro... v_user_service" />
-                <marker date="1532661488741" expanded="true" signature="528:574" ph="select count... v_user_service" />
-                <marker date="1532661488741" expanded="true" signature="1000:1110" ph="insert into tssq_sorder... " />
-                <marker date="1532661488741" expanded="true" signature="1295:1407" ph="update tssq_user_service... " />
-                <marker date="1532661488741" expanded="true" signature="2038:2119" ph="select * fro... v_user_order" />
-                <marker date="1532661488741" expanded="true" signature="2262:2325" ph="select count... v_user_order" />
-                <marker date="1532661488741" expanded="true" signature="2878:2930" ph="select * fro... tssq_service" />
-                <marker date="1532661488741" expanded="true" signature="3049:3082" ph="select count... tssq_service" />
-                <marker date="1532661488741" expanded="true" signature="3049:3083" ph="select count... tssq_service" />
-                <marker date="1532661488741" expanded="true" signature="3538:3671" ph="insert into tssq_service... " />
-                <marker date="1532661488741" expanded="true" signature="4101:4193" ph="update tssq_service... " />
-                <marker date="1532661488741" expanded="true" signature="4101:4272" ph="update tssq_member... " />
-                <marker date="1532661488741" expanded="true" signature="4653:4710" ph="delete from tssq_member... " />
-                <marker date="1532661488741" expanded="true" signature="5721:5773" ph="select * fro... tssq_service" />
-                <marker date="1532661488741" expanded="true" signature="5892:5926" ph="select count... tssq_service" />
-                <marker date="1532661488741" expanded="true" signature="6280:6403" ph="insert into tssq_sorder... " />
-                <marker date="1532661488741" expanded="true" signature="6557:6669" ph="update tssq_user_service... " />
-                <marker date="1532661488741" expanded="true" signature="7012:7034" ph="update tssq_sorder... " />
-                <marker date="1532661488741" expanded="true" signature="7012:7065" ph="update tssq_sorder... " />
-                <marker date="1532661488741" expanded="true" signature="7012:7066" ph="update tssq_sorder... " />
-                <marker date="1532661488741" expanded="true" signature="7012:7092" ph="update tssq_sorder... " />
-                <marker date="1532661488741" expanded="true" signature="7012:7098" ph="update tssq_sorder... " />
-                <marker date="1532661488741" expanded="true" signature="7012:7099" ph="update tssq_sorder... " />
-                <marker date="1532661488741" expanded="true" signature="7012:7125" ph="update tssq_sorder... " />
-                <marker date="1532661488741" expanded="true" signature="7125:7126" ph="select * fro... tssq_sorder" />
-                <marker date="1532661488741" expanded="true" signature="7560:7617" ph="delete from tssq_sorder... " />
+                <marker date="1532675999386" expanded="true" signature="281:388" ph="select * fro... tssq_member" />
+                <marker date="1532675999386" expanded="true" signature="641:683" ph="select * fro... tssq_role" />
+                <marker date="1532675999386" expanded="true" signature="1271:1321" ph="select * fro... tssq_member" />
+                <marker date="1532675999386" expanded="true" signature="1937:1981" ph="select * fro... tssq_member" />
+                <marker date="1532675999386" expanded="true" signature="3063:3114" ph="select * fro... tssq_member" />
+                <marker date="1532675999386" expanded="true" signature="3209:3242" ph="select count... tssq_member" />
+                <marker date="1532675999386" expanded="true" signature="3771:3822" ph="select count... tssq_member" />
+                <marker date="1532675999386" expanded="true" signature="4495:4658" ph="insert into tssq_member... " />
+                <marker date="1532675999386" expanded="true" signature="5467:5667" ph="update tssq_member... " />
+                <marker date="1532675999386" expanded="true" signature="6221:6263" ph="delete from tssq_member... " />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="applyservice.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/api/service/applyservice.php">
+      <file leaf-file-name="aaa.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aaa.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="3" lean-forward="true" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Product.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/class/Product.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="692">
+              <caret line="44" column="27" lean-forward="false" selection-start-line="44" selection-start-column="27" selection-end-line="44" selection-end-column="27" />
+              <folding>
+                <marker date="1532675999387" expanded="true" signature="286:345" ph="select * fro... tssq_product" />
+                <marker date="1532675999387" expanded="true" signature="1138:1220" ph="select * fro... tssq_product" />
+                <marker date="1532675999387" expanded="true" signature="1318:1352" ph="select count... tssq_product" />
+                <marker date="1532675999387" expanded="true" signature="2361:2441" ph="select * fro... tssq_product" />
+                <marker date="1532675999387" expanded="true" signature="2539:2573" ph="select count... tssq_product" />
+                <marker date="1532675999387" expanded="true" signature="3289:3584" ph="insert into tssq_product... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="product_pic_upload.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/api/product/product_pic_upload.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -61,43 +87,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="memberList.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/api/member/memberList.php">
+      <file leaf-file-name="editor_pic_upload.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/api/setting/editor_pic_upload.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="modifyMember.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/api/member/modifyMember.php">
+      <file leaf-file-name="lunbo_pic_upload.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/api/setting/lunbo_pic_upload.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+            <state relative-caret-position="136">
+              <caret line="8" column="117" lean-forward="false" selection-start-line="8" selection-start-column="117" selection-end-line="8" selection-end-column="117" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Member.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/class/Member.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="20" lean-forward="false" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-              <folding>
-                <marker date="1532670378730" expanded="true" signature="281:388" ph="select * fro... tssq_member" />
-                <marker date="1532670378730" expanded="true" signature="641:683" ph="select * fro... xd_role" />
-                <marker date="1532670378730" expanded="true" signature="1271:1321" ph="select * fro... tssq_member" />
-                <marker date="1532670378730" expanded="true" signature="1937:1981" ph="select * fro... tssq_member" />
-                <marker date="1532670378730" expanded="true" signature="3063:3114" ph="select * fro... tssq_member" />
-                <marker date="1532670378730" expanded="true" signature="3209:3242" ph="select count... tssq_member" />
-                <marker date="1532670378730" expanded="true" signature="3771:3822" ph="select count... tssq_member" />
-                <marker date="1532670378730" expanded="true" signature="4495:4658" ph="insert into tssq_member... " />
-                <marker date="1532670378730" expanded="true" signature="5467:5667" ph="update tssq_member... " />
-                <marker date="1532670378730" expanded="true" signature="6221:6263" ph="delete from tssq_member... " />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -112,31 +117,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="getServiceList.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/api/service/getServiceList.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="26" lean-forward="false" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="addService.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/api/service/addService.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="6" selection-end-column="45" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="modifyService.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/api/service/modifyService.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="33" />
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -182,10 +167,12 @@
       <dir>D:\xampp\htdocs\Project\xyn_2018_06_18</dir>
     </dirStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/restful/.htaccess" />
         <option value="$PROJECT_DIR$/web/restful/Request.php" />
         <option value="$PROJECT_DIR$/web/restful/.htaccess" />
         <option value="$PROJECT_DIR$/web/api/role/modifyRole.php" />
@@ -236,6 +223,7 @@
         <option value="$PROJECT_DIR$/web/api/service/deleteService.php" />
         <option value="$PROJECT_DIR$/web/class/Service.php" />
         <option value="$PROJECT_DIR$/web/class/Member.php" />
+        <option value="$PROJECT_DIR$/web/api/setting/lunbo_pic_upload.php" />
       </list>
     </option>
   </component>
@@ -291,7 +279,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -299,41 +286,11 @@
               <item name="tssq_2018_07_23" type="b2602c69:ProjectViewProjectNode" />
               <item name="tssq_2018_07_23" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
-            <path>
-              <item name="tssq_2018_07_23" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tssq_2018_07_23" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="web" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="tssq_2018_07_23" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tssq_2018_07_23" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="web" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="api" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="tssq_2018_07_23" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tssq_2018_07_23" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="web" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="api" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="member" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="tssq_2018_07_23" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tssq_2018_07_23" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="web" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="api" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="service" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="tssq_2018_07_23" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tssq_2018_07_23" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="web" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="class" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -444,23 +401,23 @@
       <workItem from="1532593238692" duration="6441000" />
       <workItem from="1532650957647" duration="7856000" />
       <workItem from="1532659794884" duration="2376000" />
+      <workItem from="1532676004752" duration="203000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="243702000" />
+    <option name="totallyTimeSpent" value="243905000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20572917" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20572917" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -487,34 +444,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/web/api/role/deleteRole.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="19" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/api/productType/deleteProductType.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/api/productType/addProductType.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/api/productType/modifyProductType.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/api/product/modifyProduct.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -587,9 +516,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1532503149653" expanded="true" signature="451:524" ph="select * fro... tmp_message" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -597,9 +523,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1532418089956" expanded="true" signature="642:709" ph="insert into tmp_message... " />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -614,7 +537,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="63" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -629,7 +551,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="58" lean-forward="false" selection-start-line="13" selection-start-column="58" selection-end-line="13" selection-end-column="58" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -637,7 +558,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="67" lean-forward="false" selection-start-line="5" selection-start-column="67" selection-end-line="5" selection-end-column="67" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -645,9 +565,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
           <caret line="29" column="16" lean-forward="false" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
-          <folding>
-            <marker date="1532420664465" expanded="true" signature="381:454" ph="select * fro... tmp_message" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -697,7 +614,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -705,7 +621,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -723,41 +638,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/class/Product.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="692">
-          <caret line="44" column="27" lean-forward="false" selection-start-line="44" selection-start-column="27" selection-end-line="44" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/class/User.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
           <caret line="275" column="26" lean-forward="true" selection-start-line="275" selection-start-column="26" selection-end-line="275" selection-end-column="26" />
-          <folding>
-            <marker date="1532653797954" expanded="true" signature="313:402" ph="select * fro... tssq_user" />
-            <marker date="1532653797954" expanded="true" signature="617:721" ph="select * fro... tssq_volunteer" />
-            <marker date="1532653797954" expanded="true" signature="1353:1432" ph="update tssq_user... " />
-            <marker date="1532653797954" expanded="true" signature="1726:1820" ph="update tssq_volunteer... " />
-            <marker date="1532653797954" expanded="true" signature="2041:2093" ph="select * fro... tssq_user" />
-            <marker date="1532653797954" expanded="true" signature="2368:2433" ph="select * fro... tssq_volunteer" />
-            <marker date="1532653797954" expanded="true" signature="2804:3035" ph="insert into tssq_user... " />
-            <marker date="1532653797954" expanded="true" signature="3582:3888" ph="insert into tssq_volunteer... " />
-            <marker date="1532653797954" expanded="true" signature="6874:6896" ph="select * fro... tssq_tag" />
-            <marker date="1532653797954" expanded="true" signature="7725:7834" ph="update tssq_volunteer... " />
-            <marker date="1532653797954" expanded="true" signature="8358:8423" ph="select * fro... tssq_volunteer" />
-            <marker date="1532653797954" expanded="true" signature="8741:8806" ph="select * fro... tssq_volunteer" />
-            <marker date="1532653797954" expanded="true" signature="9487:9536" ph="select * fro... tssq_user" />
-            <marker date="1532653797954" expanded="true" signature="9674:9705" ph="select count... tssq_user" />
-            <marker date="1532653797954" expanded="true" signature="10479:10533" ph="select * fro... tssq_volunteer" />
-            <marker date="1532653797954" expanded="true" signature="10673:10709" ph="select count... tssq_volunteer" />
-            <marker date="1532653797954" expanded="true" signature="11207:11255" ph="delete from xd_student... " />
-            <marker date="1532653797954" expanded="true" signature="11416:11472" ph="delete from xd_order... " />
-            <marker date="1532653797954" expanded="true" signature="11553:11603" ph="delete from tssq_sorder... " />
-            <marker date="1532653797954" expanded="true" signature="11952:12015" ph="delete from xd_student... " />
-            <marker date="1532653797954" expanded="true" signature="12168:12228" ph="delete from tssq_detail... " />
-            <marker date="1532653797954" expanded="true" signature="12309:12369" ph="delete from tssq_porder... " />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -772,7 +656,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="39" lean-forward="false" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -780,12 +663,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
           <caret line="32" column="28" lean-forward="false" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
-          <folding>
-            <marker date="1532596621066" expanded="true" signature="221:268" ph="select * fro... tssq_setting" />
-            <marker date="1532596621066" expanded="true" signature="619:666" ph="select * fro... tssq_setting" />
-            <marker date="1532596621066" expanded="true" signature="1181:1453" ph="update tssq_setting... " />
-            <marker date="1532596621066" expanded="true" signature="1623:1660" ph="update xd_student... " />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -793,7 +670,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="23" lean-forward="false" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -801,7 +677,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="24" lean-forward="false" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -809,7 +684,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="24" lean-forward="false" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -817,14 +691,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="61" lean-forward="false" selection-start-line="9" selection-start-column="61" selection-end-line="9" selection-end-column="61" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/api/member/memberList.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+          <caret line="14" column="22" lean-forward="false" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
           <folding />
         </state>
       </provider>
@@ -864,43 +737,16 @@
     <entry file="file://$PROJECT_DIR$/web/api/service/modifyService.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="33" />
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="33" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/class/Service.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="126" column="26" lean-forward="true" selection-start-line="126" selection-start-column="26" selection-end-line="126" selection-end-column="26" />
-          <folding>
-            <marker date="1532661488741" expanded="true" signature="309:385" ph="select * fro... v_user_service" />
-            <marker date="1532661488741" expanded="true" signature="528:574" ph="select count... v_user_service" />
-            <marker date="1532661488741" expanded="true" signature="1000:1110" ph="insert into tssq_sorder... " />
-            <marker date="1532661488741" expanded="true" signature="1295:1407" ph="update tssq_user_service... " />
-            <marker date="1532661488741" expanded="true" signature="2038:2119" ph="select * fro... v_user_order" />
-            <marker date="1532661488741" expanded="true" signature="2262:2325" ph="select count... v_user_order" />
-            <marker date="1532661488741" expanded="true" signature="2878:2930" ph="select * fro... tssq_service" />
-            <marker date="1532661488741" expanded="true" signature="3049:3082" ph="select count... tssq_service" />
-            <marker date="1532661488741" expanded="true" signature="3049:3083" ph="select count... tssq_service" />
-            <marker date="1532661488741" expanded="true" signature="3538:3671" ph="insert into tssq_service... " />
-            <marker date="1532661488741" expanded="true" signature="4101:4193" ph="update tssq_service... " />
-            <marker date="1532661488741" expanded="true" signature="4101:4272" ph="update tssq_member... " />
-            <marker date="1532661488741" expanded="true" signature="4653:4710" ph="delete from tssq_member... " />
-            <marker date="1532661488741" expanded="true" signature="5721:5773" ph="select * fro... tssq_service" />
-            <marker date="1532661488741" expanded="true" signature="5892:5926" ph="select count... tssq_service" />
-            <marker date="1532661488741" expanded="true" signature="6280:6403" ph="insert into tssq_sorder... " />
-            <marker date="1532661488741" expanded="true" signature="6557:6669" ph="update tssq_user_service... " />
-            <marker date="1532661488741" expanded="true" signature="7012:7034" ph="update tssq_sorder... " />
-            <marker date="1532661488741" expanded="true" signature="7012:7065" ph="update tssq_sorder... " />
-            <marker date="1532661488741" expanded="true" signature="7012:7066" ph="update tssq_sorder... " />
-            <marker date="1532661488741" expanded="true" signature="7012:7092" ph="update tssq_sorder... " />
-            <marker date="1532661488741" expanded="true" signature="7012:7098" ph="update tssq_sorder... " />
-            <marker date="1532661488741" expanded="true" signature="7012:7099" ph="update tssq_sorder... " />
-            <marker date="1532661488741" expanded="true" signature="7012:7125" ph="update tssq_sorder... " />
-            <marker date="1532661488741" expanded="true" signature="7125:7126" ph="select * fro... tssq_sorder" />
-            <marker date="1532661488741" expanded="true" signature="7560:7617" ph="delete from tssq_sorder... " />
-          </folding>
+        <state relative-caret-position="2142">
+          <caret line="126" column="26" lean-forward="false" selection-start-line="126" selection-start-column="26" selection-end-line="126" selection-end-column="26" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -925,17 +771,64 @@
         <state relative-caret-position="187">
           <caret line="11" column="20" lean-forward="false" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
           <folding>
-            <marker date="1532670378730" expanded="true" signature="281:388" ph="select * fro... tssq_member" />
-            <marker date="1532670378730" expanded="true" signature="641:683" ph="select * fro... xd_role" />
-            <marker date="1532670378730" expanded="true" signature="1271:1321" ph="select * fro... tssq_member" />
-            <marker date="1532670378730" expanded="true" signature="1937:1981" ph="select * fro... tssq_member" />
-            <marker date="1532670378730" expanded="true" signature="3063:3114" ph="select * fro... tssq_member" />
-            <marker date="1532670378730" expanded="true" signature="3209:3242" ph="select count... tssq_member" />
-            <marker date="1532670378730" expanded="true" signature="3771:3822" ph="select count... tssq_member" />
-            <marker date="1532670378730" expanded="true" signature="4495:4658" ph="insert into tssq_member... " />
-            <marker date="1532670378730" expanded="true" signature="5467:5667" ph="update tssq_member... " />
-            <marker date="1532670378730" expanded="true" signature="6221:6263" ph="delete from tssq_member... " />
+            <marker date="1532675999386" expanded="true" signature="281:388" ph="select * fro... tssq_member" />
+            <marker date="1532675999386" expanded="true" signature="641:683" ph="select * fro... tssq_role" />
+            <marker date="1532675999386" expanded="true" signature="1271:1321" ph="select * fro... tssq_member" />
+            <marker date="1532675999386" expanded="true" signature="1937:1981" ph="select * fro... tssq_member" />
+            <marker date="1532675999386" expanded="true" signature="3063:3114" ph="select * fro... tssq_member" />
+            <marker date="1532675999386" expanded="true" signature="3209:3242" ph="select count... tssq_member" />
+            <marker date="1532675999386" expanded="true" signature="3771:3822" ph="select count... tssq_member" />
+            <marker date="1532675999386" expanded="true" signature="4495:4658" ph="insert into tssq_member... " />
+            <marker date="1532675999386" expanded="true" signature="5467:5667" ph="update tssq_member... " />
+            <marker date="1532675999386" expanded="true" signature="6221:6263" ph="delete from tssq_member... " />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aaa.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="3" lean-forward="true" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/class/Product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="692">
+          <caret line="44" column="27" lean-forward="false" selection-start-line="44" selection-start-column="27" selection-end-line="44" selection-end-column="27" />
+          <folding>
+            <marker date="1532675999387" expanded="true" signature="286:345" ph="select * fro... tssq_product" />
+            <marker date="1532675999387" expanded="true" signature="1138:1220" ph="select * fro... tssq_product" />
+            <marker date="1532675999387" expanded="true" signature="1318:1352" ph="select count... tssq_product" />
+            <marker date="1532675999387" expanded="true" signature="2361:2441" ph="select * fro... tssq_product" />
+            <marker date="1532675999387" expanded="true" signature="2539:2573" ph="select count... tssq_product" />
+            <marker date="1532675999387" expanded="true" signature="3289:3584" ph="insert into tssq_product... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/api/product/product_pic_upload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/api/setting/editor_pic_upload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/api/setting/lunbo_pic_upload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="117" lean-forward="false" selection-start-line="8" selection-start-column="117" selection-end-line="8" selection-end-column="117" />
+          <folding />
         </state>
       </provider>
     </entry>
