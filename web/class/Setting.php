@@ -39,12 +39,12 @@ class Setting
         $updateSetting_rs = mysqli_affected_rows($conn);
         if ($updateSetting_rs) {
 //            $updateSetting_sql = "update xd_student set update_flag = 1 ";
-            $conn->query($updateSetting_sql);
-            $conn->close();
+//            $conn->query($updateSetting_sql);
             return $connect->out_msg(1, '更新设置成功!');
         } else {
             return $connect->out_msg(0, '更新设置失败!');
         }
+		$conn->close();
     }
 }
 
