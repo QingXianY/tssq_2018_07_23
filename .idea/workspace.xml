@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1537792-edd0-4c6e-87b5-7fbc6d14d576" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/web/class/Setting.php" afterPath="$PROJECT_DIR$/web/class/Setting.php" />
-    </list>
+    <list default="true" id="d1537792-edd0-4c6e-87b5-7fbc6d14d576" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -60,13 +58,13 @@
       <file leaf-file-name="Setting.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/class/Setting.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="596">
-              <caret line="41" column="45" lean-forward="true" selection-start-line="41" selection-start-column="45" selection-end-line="41" selection-end-column="45" />
+            <state relative-caret-position="681">
+              <caret line="46" column="23" lean-forward="false" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="23" />
               <folding>
-                <marker date="1532676478425" expanded="true" signature="221:268" ph="select * fro... tssq_setting" />
-                <marker date="1532676478425" expanded="true" signature="619:666" ph="select * fro... tssq_setting" />
-                <marker date="1532676478425" expanded="true" signature="1176:1448" ph="update tssq_setting... " />
-                <marker date="1532676478425" expanded="true" signature="1620:1657" ph="update xd_student... " />
+                <marker date="1532676576696" expanded="true" signature="221:268" ph="select * fro... tssq_setting" />
+                <marker date="1532676576696" expanded="true" signature="619:666" ph="select * fro... tssq_setting" />
+                <marker date="1532676576696" expanded="true" signature="1176:1448" ph="update tssq_setting... " />
+                <marker date="1532676576696" expanded="true" signature="1620:1657" ph="update xd_student... " />
               </folding>
             </state>
           </provider>
@@ -427,7 +425,7 @@
       <workItem from="1532593238692" duration="6441000" />
       <workItem from="1532650957647" duration="7856000" />
       <workItem from="1532659794884" duration="2376000" />
-      <workItem from="1532676004752" duration="487000" />
+      <workItem from="1532676004752" duration="814000" />
     </task>
     <task id="LOCAL-00001" summary="aaa">
       <created>1532676229418</created>
@@ -436,17 +434,25 @@
       <option name="project" value="LOCAL" />
       <updated>1532676229418</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="a">
+      <created>1532676815876</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1532676815876</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="244189000" />
+    <option name="totallyTimeSpent" value="244516000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20572917" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32908705" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -473,7 +479,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="aaa" />
-    <option name="LAST_COMMIT_MESSAGE" value="aaa" />
+    <MESSAGE value="a" />
+    <option name="LAST_COMMIT_MESSAGE" value="a" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -867,13 +874,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/class/Setting.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="596">
-          <caret line="41" column="45" lean-forward="true" selection-start-line="41" selection-start-column="45" selection-end-line="41" selection-end-column="45" />
+        <state relative-caret-position="681">
+          <caret line="46" column="23" lean-forward="false" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="23" />
           <folding>
-            <marker date="1532676478425" expanded="true" signature="221:268" ph="select * fro... tssq_setting" />
-            <marker date="1532676478425" expanded="true" signature="619:666" ph="select * fro... tssq_setting" />
-            <marker date="1532676478425" expanded="true" signature="1176:1448" ph="update tssq_setting... " />
-            <marker date="1532676478425" expanded="true" signature="1620:1657" ph="update xd_student... " />
+            <marker date="1532676576696" expanded="true" signature="221:268" ph="select * fro... tssq_setting" />
+            <marker date="1532676576696" expanded="true" signature="619:666" ph="select * fro... tssq_setting" />
+            <marker date="1532676576696" expanded="true" signature="1176:1448" ph="update tssq_setting... " />
+            <marker date="1532676576696" expanded="true" signature="1620:1657" ph="update xd_student... " />
           </folding>
         </state>
       </provider>
