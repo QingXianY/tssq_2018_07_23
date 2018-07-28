@@ -287,6 +287,11 @@
               <item name="tssq_2018_07_23" type="b2602c69:ProjectViewProjectNode" />
               <item name="tssq_2018_07_23" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+            <path>
+              <item name="tssq_2018_07_23" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tssq_2018_07_23" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="web" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -428,7 +433,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="248724000" />
+    <option name="totallyTimeSpent" value="249009000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
