@@ -5,7 +5,7 @@ class db_config{
     private $host="118.24.45.235";
     private $user="xingda2018";
     private $password="123456";
-    private $bdb="xd_xyn";
+    private $bdb="xd_tssq";
     protected static $conn;
 
 //    public function __construct(){
